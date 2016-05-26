@@ -6,17 +6,19 @@ Hi, 这是我的阅读列表
 
 ## 2016年
 ### 我正在阅读的书：
-* 《Flask Web开发》[美] Miguel Grinberg 人民邮电出版社 2014
+* 《精进》[中]采铜 江苏凤凰文艺出版社 2016
 * 《重新定义公司》[美]埃里克•施密特 中信出版社 2015
-* 《人件》（原书第3版）[美]Tom DeMarco / Timothy Lister 机械工业出版社 2014
+
 
 ### 已读的书单：
 技术类：
+* 《Flask Web开发》[美] Miguel Grinberg 人民邮电出版社 2014
 * 《Unix/Linux编程实践教程》[美]Bruce Molay清华大学出版社 2004
 * 《程序员思维修炼》[美] Andy Hunt 人民邮电出版社 2014
 * 《程序员修炼之道》Andrew Hunt/David Thomas 电子工业出版社
-* 《人件》[美]Tom DeMarco / [美]Timothy Lister  机械工业出版社 2014
+* 《人件》(原书第3版)[美]Tom DeMarco / Timothy Lister 机械工业出版社 2014
 * 《图解HTTP》[日]上野宣 人民邮电出版社 2014
+* 《版本控制之道——使用Git》[美]Travis Swicegood 电子工业出版社 2010
 
 读书、写作与沟通：
 * 《超级快速阅读》[德]克里斯蒂安•格吕宁 中信出版社 2011
